@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/juwatow/js-dev-env-demo-api.git"
+    "url": "https://github.com/juwatow/js-dev-env-demo-api"
   },
   "author": "Cory House",
   "license": "MIT"
